@@ -45,3 +45,27 @@ small {
     /* 13.28px */
 }
 
+body{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: tomato;
+    height: 5rem;
+}
+nav{
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+    padding: 1.3rem;
+}
+
+.btn{
+    background-color: lightgray;
+    border: 2px solid black;
+    border-radius: 1rem;
+    padding: 0.5rem 0.5rem;
+}
